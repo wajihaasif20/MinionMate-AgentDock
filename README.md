@@ -75,6 +75,8 @@ npm run dev
    - Description (optional)
 4. Click "Register"
 
+![Agent Management Interface](images/1.png)
+
 ### Tool Registration
 
 1. Go to the "Tools" tab
@@ -86,6 +88,8 @@ npm run dev
    - Configuration (JSON format, e.g., `{"token": "your-token"}`)
 4. Click "Register"
 
+![Tool Integration Dashboard](images/2.png)
+
 ### Chat Interface
 
 1. Select the "Chat" tab
@@ -94,6 +98,8 @@ npm run dev
    - Type your message and click send
    - Click the microphone icon and speak your message
 4. View the conversation history below
+
+![Chat Interface](images/3.png)
 
 ### Voice Input
 
@@ -111,6 +117,8 @@ npm run dev
    - Tool usage
    - Chat interactions
 3. Use the refresh button to update logs manually
+
+![Activity Logs](images/4.png)
 
 ## Browser Support
 
